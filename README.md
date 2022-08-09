@@ -10,14 +10,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 1: Introdução - Unix & Shell
 
- :white_check_mark: 1-3: _Unix & Shell- Part 1_ <br>
- :white_check_mark: 1-4: _Unix & Shell- Part 2_
+- [x] _Unix & Shell- Part 1_ 
+- [x] _Unix & Shell- Part 2_
 
 ##### Bloco 2: Git & GitHub
 
-_O que é e para que serve?_ <br>
- :white_check_mark: _Entendendo os comandos_ <br>
- :white_check_mark: _Internet - Entendendo como ela funciona_
+- [x] _O que é e para que serve?_ 
+- [x] _Entendendo os comandos_ 
+- [ ] _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução - HTML & CSS
 
