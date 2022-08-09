@@ -1,8 +1,8 @@
 Internet
 Unix
 Bash
-git
-Ide
-Pc
-Java
 Javascript
+Shell Script
+C
+CSS
+Java
